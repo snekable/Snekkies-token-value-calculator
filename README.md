@@ -12,6 +12,8 @@ Using this Bookmarklet creates now an overlay with ADA and USD informations
 
 You can also export the overlay data as JSON OR CSV file
 
+![Screenshot of the layer on the mining website](token-bookmarklet-screenshot.png)
+
 ## ADA and USD data
 The data are requested on the fly from [coingecko](https://www.coingecko.com/) - means also that only tokens can be calculated that are listed on coingecko.
 
