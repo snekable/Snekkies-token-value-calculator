@@ -24,7 +24,8 @@ You can also export the overlay data as JSON OR CSV file
 The data are requested on the fly from [coingecko](https://www.coingecko.com/) - means also that only tokens can be calculated that are listed on coingecko.
 
 ## Attention
-This script will never open or request a wallet transaction window! Be aware of scam and malware. Check my script to trust its functionality! 
+**This script will never open or request a wallet transaction window! Be aware of scam and malware. Check my script to trust its functionality! 
+If you claim tokens reload the website before to have a clean environment without external bookmarklet data!**
 
 ## Miscellaneous
 This script was made of a Cardano, $SNEK, SNEKKIES and $VIPER lover. Join these communities for more helpful content in the future.
