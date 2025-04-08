@@ -2,6 +2,12 @@
 This script makes the value of the additional token rewards of SNEKKIES nft visible as a new Layer on the mining website. 
 
 ## Install
+
+### How to create a bookmarklet in your browser
+[Tutorial for different browsers](https://mreidsma.github.io/bookmarklets/installing.html)
+
+### How to install the token bookmarklet
+
 Go to https://snekkies.com/dashboard/mines and create a Bookmarklet loading the token-bookmarklet.js file of this repo:
 
 ```
